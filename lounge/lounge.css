@@ -35,4 +35,22 @@
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+
+
+}
+
+#elixirs h2{
+  color: black;
+}s
+#elixirs h3{
+  color: #d12c47;
+}
+
+.cd{
+  font-style: italic;
+
+}
+
+.artist{
+  font-weight: bold;
 }
