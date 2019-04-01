@@ -54,3 +54,8 @@
 .artist{
   font-weight: bold;
 }
+
+#amazing{
+  width: 200px;
+  float: right;
+}
